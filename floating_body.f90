@@ -1,5 +1,5 @@
 !===============================================================================
-!	SOLVE 2D WATER WAVE PROBLEM WITH ONE SIDE WAVEMAKER AND ONESIDE FREE BY BEM
+!	SOLVE TWO-DIMENSIONAL FLUID-STRUCTURE INTERACTION PROBLEM OF A WATER TANK FILLED WITH POROUS MEDIA INSTALLED ON A RECTANGLE FLOATING PLATFORM IN WAVES.
 !	WEN-HAUI TSAO 2021 LSU
 !===============================================================================
       PROGRAM PMTLD_IN_WAVE
