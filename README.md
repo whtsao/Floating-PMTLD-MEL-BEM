@@ -1,5 +1,7 @@
 # PMTLD-in-waves
 
+Developed by Wen-Huai Tsao at LSU-CE Feb. 2022
+
 Description:
 
 Two-dimensional fluid-structure interaction problem of a water tank filled with porous media installed on a rectangle floating platform in waves.
