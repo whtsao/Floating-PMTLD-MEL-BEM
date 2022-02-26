@@ -33,3 +33,8 @@ B) Mechanical model:
   2. Linear wae theory is applied.
   3. If this model is used, the flow computation can be transferred to several motion equations of a MDOF system that is solved by Newmark method.
   4. Complete model can be referred to article 'An equivalent mechanical model with nonlinear damping for sloshing rectangular tank with porous media (2021)'
+ 
+Next version to be continued:
+  1. Floating body with mooring lines
+  2. 3D FSI problem
+  3. Offshore wind turbine design and vibration control
